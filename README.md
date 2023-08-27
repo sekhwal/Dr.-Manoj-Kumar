@@ -1,5 +1,3 @@
-Genomics and Bioinformatics Researcher
-
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A passionate Researcher</h3>
 
