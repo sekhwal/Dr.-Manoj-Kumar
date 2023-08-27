@@ -1,4 +1,3 @@
-# Dr.Manoj-Kumar
 Genomics and Bioinformatics Researcher
 
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
